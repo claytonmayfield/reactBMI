@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: plum;
+height: 100vh;;
+}
+.heightWord{
+  font-family: fantasy;
+  font-size: larger;
+  margin-right: 1em;
+}
+.weightWord{
+  font-family: fantasy;
+  font-size: larger;
+  margin-right: 1em;
+}
+#submit{
+  margin-right: 1em;
+}
